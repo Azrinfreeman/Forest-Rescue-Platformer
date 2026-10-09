@@ -1,4 +1,4 @@
-# Save the Forest
+# Forest Rescue Platformer
 
 A Unity 2D platformer prototype with three level scenes, rescue objectives, collectible cleanup, health pickups, and enemy encounters. The player moves and jumps through each level, collects items, rescues characters, and reaches an endpoint.
 
